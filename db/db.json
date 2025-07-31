@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "78a8",
+      "title": "n",
+      "views": "555552"
+    },
+    {
+      "id": "1920",
+      "title": "n",
+      "views": "45"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": "7934",
+      "fname": "asdasd",
+      "lname": "asddas",
+      "age": "3",
+      "gender": "male",
+      "views": 0
+    }
+  ]
+}
