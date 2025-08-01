@@ -95,13 +95,11 @@ const Users = () => {
                         <div className="flex justify-between mt-2 text-sm">
                             <button
                                 onClick={() => handleUpdate(user)}
-                                className="text-blue-600"
                             >
                                 Update
                             </button>
                             <button
                                 onClick={() => handleDelete(user.id)}
-                                className="text-red-600"
                             >
                                 Delete
                             </button>
